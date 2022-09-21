@@ -1,4 +1,5 @@
 title: Species of Hominidae
+alias: Hominidae
 description: Extant and extinct species of great apes, the family Hominidae. Taxonmomic
   opinions are largely based on wikipedia, with a special focus on the human taxonomy.
   So far only the Hominini tribe is covered.
@@ -8,7 +9,7 @@ contact:
   family: Döring
   email: mdoering@gbif.org
   organisation: GBIF
-   orcid: 0000-0001-7757-1889
+  orcid: 0000-0001-7757-1889
 creator:
  - given: Markus
    family: Döring
