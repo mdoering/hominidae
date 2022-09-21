@@ -6,6 +6,7 @@
 
 	<dataset>
 		<title xml:lang="en">Species of Hominidae</title>
+		<shortName>Hominidae</shortName>
 		<creator>
 			<individualName>
 				<givenName>Markus</givenName>
