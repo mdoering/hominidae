@@ -1,2 +1,7 @@
-# hominidae
-Hominidae species, both extant and extinct, as a Darwin Core Archive
+# Hominidae
+
+Repository containing a Darwin Core Archive representing extant and extinct species of [great apes](https://en.wikipedia.org/wiki/Hominidae), mostly based on wikipedia 
+with special focus on the [human taxonomy](https://en.wikipedia.org/wiki/Human_taxonomy).
+The dataset is registered in ChecklistBank and GBIF.
+
+So far only the [Hominini](https://en.wikipedia.org/wiki/Hominini) tribe is covered, but the remaining taxa from the family will follow.

@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+d=`date +%Y-%m-%d`
+sed -i '' "s/<pubDate>.*<\\/pubDate>/<pubDate>$d<\\/pubDate>/g" eml.xml
+git add eml.xml
+echo "Updated the pubdate in EML"
+exit 0
+

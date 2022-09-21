@@ -1,0 +1,34 @@
+<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
+
+  <core encoding="utf-8" fieldsTerminatedBy=";" linesTerminatedBy="\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+    <files>
+      <location>taxa.csv</location>
+    </files>
+    <id index="0" />
+	<!-- taxonKey is the primary key and name usage relations referenceing taxonID-->
+    <field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+	<!-- name usage relations referenceing taxonID-->
+    <field index="1" term="http://rs.tdwg.org/dwc/terms/parentNameUsageID"/>
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID"/>
+    <field index="3" term="http://rs.tdwg.org/dwc/terms/originalNameUsageID"/>
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+    <field index="7" term="http://rs.tdwg.org/dwc/terms/nomenclaturalStatus"/>
+    <field index="8" term="http://rs.tdwg.org/dwc/terms/namePublishedInID"/>
+    <field index="9" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
+	<!-- URL to a webpage/document taxon in the source -->
+    <field index="10" term="http://purl.org/dc/terms/references"/>
+	<!-- typification remark, not yet understood in gbif portal -->
+    <field index="11" term="http://rs.gbif.org/terms/typification"/>
+	<!-- any further remarks and discussion why the name was inluded here -->
+    <field index="12" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
+  </core>
+
+  <extension encoding="UTF-8" fieldsTerminatedBy=";" linesTerminatedBy="\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/SpeciesProfile">
+    <files>
+      <location>taxa.csv</location>
+    </files>
+    <coreid index="0"/>
+    <field index="5" term="http://rs.gbif.org/terms/1.0/isExtinct"/>
+  </extension>
+</archive>
