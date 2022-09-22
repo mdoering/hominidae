@@ -1,8 +1,8 @@
 #!/bin/sh
 #
 d=`date +%Y-%m-%d`
-sed -i '' "s/<pubDate>.*<\\/pubDate>/<pubDate>$d<\\/pubDate>/g" eml.xml
-git add eml.xml
-echo "Updated the pubdate in EML"
+sed -i '' "s/issued: .+$/issued: $d/g" metadata.yaml
+git add metadata.yaml
+echo "Updated the issued data in metadata.yaml to $d"
 exit 0
 

@@ -3,6 +3,7 @@ alias: Hominidae
 description: Extant and extinct species of great apes, the family Hominidae. Taxonmomic
   opinions are largely based on wikipedia, with a special focus on the human taxonomy.
   So far only the Hominini tribe is covered.
+url: https://github.com/mdoering/hominidae
 issued: 2022-09-21
 contact:
   given: Markus
@@ -17,16 +18,26 @@ creator:
    organisation: GBIF
    orcid: 0000-0001-7757-1889
 license: cc0
-url: https://github.com/mdoering/hominidae
+geographicScope: Global
+taxonomicScope: Hominidae
+temporalScope: Miocene (17Ma) until today
+completeness: 50
+confidence: 5
 source:
  - type: webpage
    title: Human taxonomy on Wikipedia
    url: https://en.wikipedia.org/wiki/Human_taxonomy
  - type: webpage
-   title: Hominidae on Wikipedia
+   title: Family Hominidae on Wikipedia
    url: https://en.wikipedia.org/wiki/Hominidae
  - type: webpage
-   title: Hominini on Wikipedia
+   title: Subfamily Homininae on Wikipedia
+   url: https://en.wikipedia.org/wiki/Homininae
+ - type: webpage
+   title: Subfamily Ponginae on Wikipedia
+   url: https://en.wikipedia.org/wiki/Ponginae
+ - type: webpage
+   title: Tribe Hominini on Wikipedia
    url: https://en.wikipedia.org/wiki/Hominini
  - type: webpage
    title: Neanderthal on Wikipedia
