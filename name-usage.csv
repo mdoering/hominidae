@@ -11,7 +11,7 @@ f4,f,,,synonym,family,,,,"Panidae Ciochon, 1983",,,,
 sfp,f,,,,subfamily,,,,Ponginae,,https://en.wikipedia.org/wiki/Ponginae,,
 tp,sfp,,,,tribe,,,,Pongini,,https://en.wikipedia.org/wiki/Pongini,,
 g5,tp,,,,genus,true,,,"Khoratpithecus Chaimanee et al. 2004",,https://en.wikipedia.org/wiki/Khoratpithecus,Chaimanee2004,
-500,g5,,,,species,true,,,"Khoratpithecus ayeyarwadyensis Jaeger,  & Chaimanee, 2011",,https://en.wikipedia.org/wiki/Khoratpithecus,Jaeger2011
+500,g5,,,,species,true,,,"Khoratpithecus ayeyarwadyensis Jaeger,  & Chaimanee, 2011",,https://en.wikipedia.org/wiki/Khoratpithecus,Jaeger2011,
 501,g5,,,,species,true,,,"Khoratpithecus piriyai Chaimanee et al. 2004",,https://en.wikipedia.org/wiki/Khoratpithecus,,
 502,g5,503,,,species,true,12Ma,11Ma,"Khoratpithecus chiangmuanensis (Chaimanee et al., 2003)",,https://en.wikipedia.org/wiki/Khoratpithecus,,
 503,502,,,synonym,species,true,,,"Lufengpithecus chiangmuanensis Chaimanee et al., 2003",,https://de.wikipedia.org/wiki/Lufengpithecus_chiangmuanensis,Chaimanee2003,
