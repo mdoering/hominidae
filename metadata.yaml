@@ -21,8 +21,8 @@ license: cc0
 geographicScope: Global
 taxonomicScope: Hominidae
 temporalScope: Miocene (17Ma) until today
-completeness: 50
-confidence: 5
+completeness: 80
+confidence: 4
 source:
  - type: webpage
    title: Human taxonomy on Wikipedia
