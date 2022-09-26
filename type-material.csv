@@ -1,1 +1,2 @@
-ID,nameID,status,locality,country,date,collector
+ID,nameID,status,institutionCode,catalogNumber,locality,country,altitude,sex,date,collector
+KNM-NA46400,1000,holotype,KNM,NA46400,"Nakali area of northern Kenya's former Rift Valley Province",Kenya,,,2005,collector

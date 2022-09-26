@@ -4,7 +4,7 @@ description: Extant and extinct species of great apes, the family Hominidae. Tax
   opinions are largely based on wikipedia, with a special focus on the human taxonomy.
   So far only the Hominini tribe is covered.
 url: https://github.com/mdoering/hominidae
-issued: 2022-09-22
+issued: 2022-09-26
 contact:
   given: Markus
   family: Döring
@@ -21,7 +21,7 @@ license: cc0
 geographicScope: Global
 taxonomicScope: Hominidae
 temporalScope: Miocene (17Ma) until today
-completeness: 80
+completeness: 98
 confidence: 4
 source:
  - type: webpage
