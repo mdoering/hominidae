@@ -2,9 +2,8 @@ title: Species of Hominidae
 alias: Hominidae
 description: Extant and extinct species of great apes, the family Hominidae. Taxonmomic
   opinions are largely based on wikipedia, with a special focus on the human taxonomy.
-  So far only the Hominini tribe is covered.
 url: https://github.com/mdoering/hominidae
-issued: 2022-09-27
+issued: 2022-12-05
 contact:
   given: Markus
   family: Döring
@@ -21,7 +20,7 @@ license: cc0
 geographicScope: Global
 taxonomicScope: Hominidae
 temporalScope: Miocene (17Ma) until today
-completeness: 98
+completeness: 99
 confidence: 4
 source:
  - type: webpage
