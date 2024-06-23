@@ -6,3 +6,7 @@ The dataset is registered with [ChecklistBank](https://www.checklistbank.org/dat
 
 ## Credits
 The ![logo](logo.png) is originally from [Tkgd2007](https://commons.wikimedia.org/wiki/File:Human_evolution.svg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) , via Wikimedia Commons.
+
+## DOI metadata
+is being retrieved from Crossref using the DOI API:
+> curl --location --silent --header "Accept: application/x-bibtex" https://doi.org/10.1080/11035890601282097 
