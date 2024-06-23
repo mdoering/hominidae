@@ -225,5 +225,5 @@ g1,th,,,,genus,,,,Homo,"Linnaeus, 1758",,,,https://en.wikipedia.org/wiki/Homo,,
 128c,128,,,synonym,species,,,,Australopithecus rudolfensis,"(Alekseyev, 1986)",,,,https://en.wikipedia.org/wiki/Homo_rudolfensis,,
 128d,128,,,synonym,species,,,,Kenyanthropus rudolfensis,"(Cameron, 2003)",,,,https://en.wikipedia.org/wiki/Homo_rudolfensis,,
 
-g28,f,,,,genus,true,,,Buronius,"Böhme et al., 2024",Böhme2024,,,https://doi.org/10.1371/journal.pone.0301002,,
-127,g28,,,,species,true,,,Buronius manfredschmidi,"Böhme et al., 2024",Böhme2024,,,https://doi.org/10.1371/journal.pone.0301002,,
+g30,f,,,,genus,true,,,Buronius,"Böhme et al., 2024",Böhme2024,,,https://doi.org/10.1371/journal.pone.0301002,,
+300,g28,,,,species,true,,,Buronius manfredschmidi,"Böhme et al., 2024",Böhme2024,,,https://doi.org/10.1371/journal.pone.0301002,,
